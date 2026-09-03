@@ -356,10 +356,6 @@ Output:
 
 
 <img width="863" height="707" alt="image" src="https://github.com/user-attachments/assets/254d45e3-deaf-40a4-a55f-6aca6167ef9a" />
-Result:
-
-Thus, the program is verified successfully
-
 
 
 
@@ -372,5 +368,11 @@ Result:
 
 
 
-
 Thus, the program is verified successfully
+
+
+
+
+
+
+
